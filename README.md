@@ -9,5 +9,5 @@ run: $ANDROID_NDK/ndk-build
 
 update MIRACL code
 -----------------
-If you want use new MIRACL you can copy or download MIRACL source code( [https://github.com/miracl/MIRACL] ),move code folder (MIRACL-master/) to source/,
+If you want to use new MIRACL library you can download MIRACL source code( [https://github.com/miracl/MIRACL] ),move code folder (MIRACL-master/) to source/,
 then cd to source/ folder and  run ./arm_extract.sh, everything is update to jni/
