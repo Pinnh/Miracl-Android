@@ -3,7 +3,8 @@ MIRACL(MIRACL Cryptographic SDK) Android compile,support armeabi,armeabi-v7a,arm
 
 Compile
 -----------------
-Assume you has Android NDK and config the NDK path $ANDROID_NDK
+Assume you have Android NDK and config the NDK path $ANDROID_NDK
+
 run: $ANDROID_NDK/ndk-build
 
 update MIRACL code
